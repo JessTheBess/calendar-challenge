@@ -13,6 +13,13 @@ textarea{
   padding: 10px;
 }
 
+footer {
+  width: auto;
+  border-radius: 0;
+  padding-top: 25px;
+  background-color: lightcyan;
+}
+
 .jumbotron {
   text-align: center;
   background-color: lightcyan;
