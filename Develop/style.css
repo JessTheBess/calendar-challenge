@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -15,10 +15,10 @@ textarea{
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
-  color: black;
+  background-color: lightcyan;
+  color: navy;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 10px solid coral;
 }
 
 .description{
@@ -48,12 +48,12 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: lightsalmon;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: lightgreen;
   color: white;
 }
 
